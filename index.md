@@ -5,3 +5,8 @@
 3. Entities
 4. relationships 
 5. citations
+
+## Unstructured io 
+
+https://github.com/Unstructured-IO/unstructured.. this will be the document parser 
+
