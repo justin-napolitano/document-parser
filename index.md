@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - unstructured library
   - multi-format documents
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is about building and deploying an automated document parsing API using FastAPI, Docker,
+  and handling multiple filetypes with parsing pipelines. This fits well with 'automation' which
+  covers build, deployment, and automation tooling. Other families like datascience or devtools do
+  not match the core focus on an automated API service and document ingestion pipeline.
 ---
 
 # document-parser: Technical Overview and Implementation
@@ -90,4 +97,5 @@ A Docker Compose configuration is provided to run the Unstructured service conta
 ## Summary
 
 This project provides a practical and extensible solution for document parsing pipelines, combining a powerful parsing library with a clean API interface. Its modular design and comprehensive utilities facilitate integration into larger data processing workflows. The use of FastAPI and Docker ensures easy deployment and scalability. Future enhancements will likely focus on improving parsing accuracy, expanding supported formats, and adding security and operational features.
+
 
