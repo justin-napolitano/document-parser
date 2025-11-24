@@ -1,12 +1,27 @@
 ---
-slug: "github-document-parser"
-title: "document-parser"
-repo: "justin-napolitano/document-parser"
-githubUrl: "https://github.com/justin-napolitano/document-parser"
-generatedAt: "2025-11-23T08:52:19.498640Z"
-source: "github-auto"
+slug: github-document-parser
+title: 'Document-Parser: FastAPI API for Multi-Format Document Ingestion and Parsing'
+repo: justin-napolitano/document-parser
+githubUrl: https://github.com/justin-napolitano/document-parser
+generatedAt: '2025-11-23T08:52:19.498640Z'
+source: github-auto
+summary: >-
+  Technical overview of a document parsing API built with FastAPI and Unstructured library
+  supporting PDFs, Word, HTML, images, and gzip files.
+tags:
+  - document-parsing
+  - fastapi
+  - unstructured
+  - pdf
+  - api
+  - docker
+seoPrimaryKeyword: document parsing
+seoSecondaryKeywords:
+  - fastapi api
+  - unstructured library
+  - multi-format documents
+seoOptimized: true
 ---
-
 
 # document-parser: Technical Overview and Implementation
 
@@ -75,3 +90,4 @@ A Docker Compose configuration is provided to run the Unstructured service conta
 ## Summary
 
 This project provides a practical and extensible solution for document parsing pipelines, combining a powerful parsing library with a clean API interface. Its modular design and comprehensive utilities facilitate integration into larger data processing workflows. The use of FastAPI and Docker ensures easy deployment and scalability. Future enhancements will likely focus on improving parsing accuracy, expanding supported formats, and adding security and operational features.
+
