@@ -1,13 +1,13 @@
 ---
 slug: github-document-parser
-title: 'Document-Parser: FastAPI API for Multi-Format Document Ingestion and Parsing'
+title: 'Document Parser: Overview and Implementation Details'
 repo: justin-napolitano/document-parser
 githubUrl: https://github.com/justin-napolitano/document-parser
 generatedAt: '2025-11-23T08:52:19.498640Z'
 source: github-auto
 summary: >-
-  Technical overview of a document parsing API built with FastAPI and Unstructured library
-  supporting PDFs, Word, HTML, images, and gzip files.
+  Explore the architecture and implementation of a document parser that extracts
+  structured data from various file formats using FastAPI and Unstructured.
 tags:
   - document-parsing
   - fastapi
@@ -15,19 +15,26 @@ tags:
   - pdf
   - api
   - docker
-seoPrimaryKeyword: document parsing
+  - document parsing
+  - pytest
+seoPrimaryKeyword: document parsing API
 seoSecondaryKeywords:
-  - fastapi api
-  - unstructured library
-  - multi-format documents
+  - FastAPI document parser
+  - Unstructured library usage
+  - file type detection
+  - document processing pipeline
+  - Docker Compose setup
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is about building and deploying an automated document parsing API using FastAPI, Docker,
-  and handling multiple filetypes with parsing pipelines. This fits well with 'automation' which
-  covers build, deployment, and automation tooling. Other families like datascience or devtools do
-  not match the core focus on an automated API service and document ingestion pipeline.
+  The post is about building and deploying an automated document parsing API
+  using FastAPI, Docker, and handling multiple filetypes with parsing pipelines.
+  This fits well with 'automation' which covers build, deployment, and
+  automation tooling. Other families like datascience or devtools do not match
+  the core focus on an automated API service and document ingestion pipeline.
+kind: project
+id: github-document-parser
 ---
 
 # document-parser: Technical Overview and Implementation
