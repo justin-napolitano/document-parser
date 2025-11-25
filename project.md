@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/document-parser
 generatedAt: '2025-11-24T21:34:34.223Z'
 source: github-auto
 summary: >-
-  Explore a document parsing pipeline that processes various formats, extracts
-  entities, and provides an API for efficient document handling.
+  Explore a document parsing pipeline that processes various formats, extracts entities, and
+  provides an API for efficient document handling.
 tags:
   - document parsing
   - FastAPI
@@ -31,8 +31,8 @@ seoSecondaryKeywords:
   - Docker document service
   - entity extraction API
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -167,4 +167,5 @@ pytest
 
 # License
 This project uses the Apache License 2.0 as indicated in the LICENSE.md file.
+
 
