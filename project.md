@@ -1,20 +1,31 @@
 ---
 slug: github-document-parser
 id: github-document-parser
-title: document-parser
+title: 'Document Parser: Efficient Document Processing Pipeline'
 repo: justin-napolitano/document-parser
 githubUrl: https://github.com/justin-napolitano/document-parser
 generatedAt: '2025-11-24T21:34:34.223Z'
 source: github-auto
 summary: >-
-  A document parsing pipeline designed to process various document types,
-  tokenize and chunk content, extract entities, relationships, and citations,
-  and store the results in a database. It leverages the Unstructured library and
-  provides an API for document partitioning.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A document parsing pipeline that processes various formats, extracts entities,
+  and provides an API for document partitioning.
+tags:
+  - document parsing
+  - FastAPI
+  - Unstructured library
+  - Docker
+  - Python
+  - pypdf
+  - pytest
+  - data extraction
+seoPrimaryKeyword: document parsing pipeline
+seoSecondaryKeywords:
+  - API for document processing
+  - entity extraction from documents
+  - tokenization and chunking
+  - Docker Compose setup
+  - Python document parser
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
